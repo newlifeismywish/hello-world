@@ -1,3 +1,3 @@
 # hello-world
-practice /n
+practice \n
 Try to learn how to code
